@@ -1,3 +1,6 @@
+# Note that this file was created in early 2021 and may well be out of date.
+# Check CircleCI documentation for up to date orbs: https://circleci.com/developer/orbs
+
 version: 2.1
 orbs:
   ruby: circleci/ruby@0.1.2
